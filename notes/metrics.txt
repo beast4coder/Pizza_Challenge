@@ -1,0 +1,11 @@
+List of metrics:
+1. Sales data: This would include total sales, sales by dayweekmonth, and sales by menu item.
+2. Inventory data: This would include current inventory levels, inventory usage, and inventory waste. 
+3. Labor data: This would include employee scheduling, employee hours worked, and labor costs.
+4. Customer data: This would include customer feedback, customer demographics, and customer loyalty program data.
+5. Marketing data: This would include social media engagement, website traffic, and advertising metrics.
+6. Financial data: This would include profit and loss statements, cash flow statements, and balance sheets.
+7. Operational data: This would include table turnover rates, wait times, and kitchen efficiency metrics.
+8. Menu data: This would include menu item popularity, food costs, and menu item profitability.
+9. Reservation data: This would include reservation volume, reservation cancellations, and reservation no-shows.
+10. Staff performance data: This would include employee performance metrics, such as customer satisfaction ratings and sales performance.

@@ -1,0 +1,7 @@
+1. Owner/Administrator: This level should have full access to all features and data in the dashboard, including the ability to add or remove users, manage inventory, and view financial data.
+
+2. Manager: This level should have access to most features and data in the dashboard, including sales data, inventory data, labor data, customer data, marketing data, financial data, operational data, menu data, and reservation data. They should also have the ability to manage staff performance data.
+
+3. Staff: This level should have limited access to the dashboard, including the ability to view sales data, inventory data, customer data, and reservation data. They should also have the ability to manage their own schedules and view their own performance metrics.
+
+4. Customer: This level should have access to their own customer data, including their loyalty program status and rewards. They should also have the ability to provide feedback and view their own order history.

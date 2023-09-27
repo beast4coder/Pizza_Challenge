@@ -1,0 +1,25 @@
+web is the best most likely
+nothing specific to cater to, if accessed by employees they can use their own devcies
+no need to cater to a specific device
+no need to cater to a specific device
+no need to cater to a specific device
+
+Q: What is the difference between a web app and a native app?
+A: web app is accessed through a browser, native app is downloaded from an app store
+
+Q: What is the difference between a web app and a hybrid app?
+A: hybrid app is a web app that is downloaded from an app store
+
+Q: What is the difference between a native app and a hybrid app?
+A: native app is downloaded from an app store, hybrid app is a web app that is downloaded from an app store
+
+Q: What is the difference between a web app and a responsive web app?
+A: responsive web app is a web app that is designed to work on any device
+
+Q: Can how does a web app be turned into a hybrid app?
+A: yes, by using a wrapper
+
+Q: What is a wrapper?
+A: a wrapper is a native app that contains a web app
+
+hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
